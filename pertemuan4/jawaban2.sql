@@ -1,0 +1,1 @@
+SELECT * FROM mahasiswa WHERE alamat like'%jl. merdeka%';

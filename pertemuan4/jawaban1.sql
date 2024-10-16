@@ -1,0 +1,1 @@
+SELECT * FROM mahasiswa WHERE tahun_masuk in ('2020', '2019');
